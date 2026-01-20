@@ -1,5 +1,5 @@
-#IN PERCOBAAN
-## PERCOBAAN HEADING 2
+## PERCOBAAN
+# INI PERCOBAAN
 
 mencoba untuk membuat git
 **created by:daftinci**
